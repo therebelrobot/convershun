@@ -1,0 +1,10 @@
+
+body {
+}
+.container{
+  width:500px;
+}
+
+.row{
+  border-bottom: solid 1px #eee;
+}

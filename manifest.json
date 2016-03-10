@@ -1,8 +1,8 @@
 {
 
-  "name": "The Latest",
+  "name": "Convershun",
   "version": "0.1",
-  "description": "Get the Latest news straight from your address bar",
+  "description": "Convert stuff, yo!",
   "icons": { "16": "icons/icon16.png",
              "48": "icons/icon48.png",
             "128": "icons/icon128.png" },
@@ -41,7 +41,7 @@
     {
       "matches": ["http://www.google.com/*"],
       "css": ["lib/bootstrap.css", "src/main.css"],
-      "js": ["lib/jquery.min.js", "src/main.js"]
+      "js": ["lib/jquery.min.js", "lib/moment.js", "lib/uri-util.js", "src/main.js"]
     }
   ],
 
