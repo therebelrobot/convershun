@@ -8,3 +8,8 @@ body {
 .row{
   border-bottom: solid 1px #eee;
 }
+
+.half {
+  width: 45% !important;
+  display:inline-block !important;
+}

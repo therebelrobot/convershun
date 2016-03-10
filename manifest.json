@@ -41,7 +41,7 @@
     {
       "matches": ["http://www.google.com/*"],
       "css": ["lib/bootstrap.css", "src/main.css"],
-      "js": ["lib/jquery.min.js", "lib/moment.js", "lib/uri-util.js", "src/main.js"]
+      "js": ["lib/jquery.min.js", "lib/moment.js", "lib/lodash.js", "lib/uri-util.js", "src/main.js"]
     }
   ],
 
