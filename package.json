@@ -1,0 +1,19 @@
+{
+  "name": "convershun",
+  "version": "0.1.0",
+  "description": "This is a boilerplate for Chrome app, extension, and theme development. It should be easy enough to get started even if you've never built a Chrome extension before by following the INSTALLATION notes.",
+  "main": "manifest.json",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/therebelrobot/convershun.git"
+  },
+  "author": "Trent Oswald <trentoswald@therebelrobot.com> (@therebelrobot)",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/therebelrobot/convershun/issues"
+  },
+  "homepage": "https://github.com/therebelrobot/convershun#readme"
+}
